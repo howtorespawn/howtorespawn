@@ -72,7 +72,7 @@ A Web developer interested in:
 
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   - Arch Linux (I use arch btw)
-    <img src="https://www.meyerperin.com/images/arch-bathroom.jpeg">
+<img src="https://www.meyerperin.com/images/arch-bathroom.jpeg">
     
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 
