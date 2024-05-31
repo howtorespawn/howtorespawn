@@ -3,9 +3,9 @@
 </a>
 
 ## About me:
-I am a:
-Website Developer
-I also have experinece in **Video** editing, **Photo** Editing and **Community Management**.
+I am a:<br>
+Website Developer<br>
+I also have experinece in **Video** editing, **Photo** Editing and **Community Management**.<br>
 
 ![GitHub Snake Contribution Grid Animation](https://raw.githubusercontent.com/RobinHirst11/RobinHirst11/output/github-contribution-grid-snake-dark.svg)
 
