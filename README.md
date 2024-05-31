@@ -34,25 +34,10 @@ A Web developer interested in:
 ## 🔥 Expertise & Skills
 
 ### Cloud Platforms:
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=flat-square&logo=Microsoft%20Azure&logoColor=white)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020.svg?style=flat-square&logo=cloudflare&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=flat-square&logo=Amazon%20AWS&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717.svg?style=flat-square&logo=github&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE.svg?style=flat-square&logo=IBM%20Cloud&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-c14432.svg?style=flat-square&logo=java&logoColor=white)
-![CloudWays](https://img.shields.io/badge/Cloudways-2C39BD.svg?style=flat-square&logo=cloudways&logoColor=white)
-![SiteGround](https://img.shields.io/badge/SiteGround-8CC445.svg?style=flat-square&logo=SciPy&logoColor=white)
-![Google GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=flat-square&logo=google&logoColor=EA4335)
 
 ### Frameworks & Libraries:
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=github-actions&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=flat-square&logo=WordPress&logoColor=white)
-![Discord.JS](https://img.shields.io/badge/Discord.js-black?style=flat-square&logo=discord&logoColor=white)
-![Discord.PY](https://img.shields.io/badge/Discord.py-black?style=flat-square&logo=discord&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![GraphQL](https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=graphql&logoColor=E10098)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=Flask&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/Gitlab-black?style=flat-square&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white)
@@ -72,6 +57,7 @@ A Web developer interested in:
 
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   - Arch Linux (I use arch btw)
+
 <img style="
      display: block;
   margin-left: auto;
