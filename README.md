@@ -69,6 +69,4 @@ A Web developer interested in:
 
 # Feel Free to Reach Out on Discord
 
-<div align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/743776395183915028)](https://discord.com/users/743776395183915028)
-<div>
