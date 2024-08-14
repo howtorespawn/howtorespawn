@@ -44,8 +44,7 @@ A Web developer interested in:
 
 ### Back End:
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
-<p>PHP (I aint in the mood to make button for php)</p>
----
+PHP (I aint in the mood to make button for php)
 
 ## Operating Systems
 - ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows%20XP&logoColor=white)
