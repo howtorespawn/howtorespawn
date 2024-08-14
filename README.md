@@ -9,12 +9,6 @@ I also have experinece in **Video** editing, **Photo** Editing and **Community M
 
 ![GitHub Snake Contribution Grid Animation](https://raw.githubusercontent.com/RobinHirst11/RobinHirst11/output/github-contribution-grid-snake-dark.svg)
 
-<p align="center">
-  <a href="https://github.com/howtorespawn?tab=followers">
-    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/RobinHirst11?color=236ad3&labelColor=1155ba&style=flat-square&label=Follow&logo=person-add&logoColor=white&v=42"/>
-  </a>
-</p>
-
 ---
 
 ### 👋 Greetings, I'm Fateh.
@@ -27,9 +21,7 @@ A Web developer interested in:
 
 - 🎮 **Games** Video Games are one of my pass time.
 
-- 📚 **Literary:** I enjoy reading Webtoons, Mangas,
-
-- 💰 **Financial Navigator:** i like moneys
+- 📚 **Literary:** I enjoy reading Webtoons, Mangas.
 
 ## 🔥 Expertise & Skills
 
@@ -37,6 +29,7 @@ A Web developer interested in:
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717.svg?style=flat-square&logo=github&logoColor=white)
 
 ### Frameworks & Libraries:
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=flat-square&logo=WordPress&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/Gitlab-black?style=flat-square&logo=gitlab&logoColor=white)
@@ -49,6 +42,9 @@ A Web developer interested in:
 ![C](https://img.shields.io/badge/C-000.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=flat-square&logo=PowerShell&logoColor=white)
 
+### Back End:
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
+PHP (I aint in the mood to make button for php)
 ---
 
 ## Operating Systems
