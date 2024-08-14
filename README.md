@@ -43,7 +43,7 @@ A Web developer interested in:
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=flat-square&logo=PowerShell&logoColor=white)
 
 ### Back End:
-![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white) <br>
 PHP (I aint in the mood to make button for php)
 
 ## Operating Systems
