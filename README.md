@@ -67,6 +67,6 @@ PHP (I aint in the mood to make button for php so lets use our imagination 🥰)
 [![Discord Presence](https://lanyard.cnrad.dev/api/743776395183915028)](https://discord.com/users/743776395183915028)
 
 ## Project Live Link:
-https://howtorespawn.github.io/ (No Frame Work)
-https://nextjsdronetest.vercel.app/ (Next Js)
+https://howtorespawn.github.io/ (No Frame Work)<br>
+https://nextjsdronetest.vercel.app/ (Next Js)<br>
 https://landing-page-kappa-ten.vercel.app/ (New Landing Page WIP)
