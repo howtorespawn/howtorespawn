@@ -5,7 +5,8 @@
 ## About me:
 I am a:<br>
 Website Developer<br>
-I also have experinece in **Video** editing, **Photo** Editing and **Community Management**.<br>
+I also have experinece in **Video** editing, **Photo** Editing and **Community Management**.
+
 ---
 
 ### 👋 Greetings, I'm Fateh.
