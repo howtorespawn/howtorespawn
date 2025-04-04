@@ -1,5 +1,5 @@
-<a title="Fateh Mudassar" href="https://github.com/howtorespawn" style="text-decoration: none;">
-    <h1>Fateh Mudassar</h1>
+<a title="Duckie" href="https://github.com/howtorespawn" style="text-decoration: none;">
+    <h1>Duckie</h1>
 </a>
 
 ## About me:
