@@ -9,7 +9,7 @@ I also have experinece in **Video** editing, **Photo** Editing and **Community M
 
 ---
 
-### 👋 Greetings, I'm Fateh.
+### 👋 Greetings, I'm Duckie (Duck Cult Leader).
 
 A Web developer interested in:
 
