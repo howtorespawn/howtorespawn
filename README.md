@@ -66,5 +66,4 @@ PHP (I aint in the mood to make button for php so lets use our imagination 🥰)
 
 ## Project Live Link:
 https://howtorespawn.github.io/ (No Frame Work)<br>
-https://nextjsdronetest.vercel.app/ (Next Js)<br>
-https://landing-page-kappa-ten.vercel.app/ (New Landing Page WIP)
+
